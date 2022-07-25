@@ -1,6 +1,6 @@
 # Meus-Exames-App-Adroid
 
-
+- Projeto indivual realizado no treinamento de Android da IBM.
 
 Imagens do App:
 
